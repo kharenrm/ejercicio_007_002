@@ -1,0 +1,41 @@
+body {
+	background-color: #D8D8D8;
+}
+p{
+	color: red;
+}
+
+img {
+	display: block;
+	width: 100px;
+}
+
+button {
+	width: 10%;
+	height: 30px;
+}
+
+.carretera{
+	background-color: red;
+}
+
+.carril1 {
+	background-color: gray;
+	border-bottom-style: solid;
+	border-color: yellow;
+	width: 90%
+}
+
+.carril2 {
+	background-color: gray;
+	width: 90%;
+}
+
+.auto1 {
+	position: relative;
+	
+}
+
+.auto2 {
+	position: relative;
+}
